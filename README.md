@@ -1,4 +1,4 @@
-# NomedoProjeto
+# CP-Problems
 
 **Conteúdo da Disciplina**: Greed<br>
 
