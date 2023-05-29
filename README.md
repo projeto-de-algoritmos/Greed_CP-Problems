@@ -11,22 +11,27 @@
 
 ## Sobre
 
-Descreva os objetivos do seu projeto e como ele funciona.
+Para este projeto da disciplina optamos por fazer questões de Programação Competitiva de dificuldade difícil, utilizando o site AtCoder.
+
+- [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)
 
 ## Screenshots Accepteds
 
 ![image](./assets/AC_AtCoder_Impartial_Gifts.png)
+![image](./assets/AC_AtCoder_knapsack.png)
 
 ## Instalação
 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++<br>
+
+<code>g++ nomeArquivo.cpp -std=c++11 -o exec</code>
+
+<code>./exec</code>
 
 ## Uso
 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para testar os exercícios, recomendamos acessar a página do exercício que deseja executar e observar os padrões dos casos de testes disponíveis.
 
-## Outros
+## Vídeo
 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+O vídeo para explicação e demonstração do trabalho pode ser encontrado a partir do seguinte [link](ADD LINK).
