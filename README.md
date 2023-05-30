@@ -11,14 +11,17 @@
 
 ## Sobre
 
-Para este projeto da disciplina optamos por fazer questões de Programação Competitiva de dificuldade difícil, utilizando o site AtCoder.
+Para este projeto da disciplina optamos por fazer questões de Programação Competitiva de dificuldade difícil, utilizando o site AtCoder e Codeforces.
 
+- [D - Impartial Gifts](https://atcoder.jp/contests/abc302/tasks/abc302_d)
 - [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)
+- [D - Matryoshkas](https://codeforces.com/problemset/problem/1790/D)
 
 ## Screenshots Accepteds
 
 ![image](./assets/AC_AtCoder_Impartial_Gifts.png)
 ![image](./assets/AC_AtCoder_knapsack.png)
+![image](./assets/AC_CodeForces_Matryoshkas.png)
 
 ## Instalação
 
