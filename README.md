@@ -38,4 +38,4 @@ Para testar os exercícios, recomendamos acessar a página do exercício que des
 
 ## Vídeo
 
-O vídeo para explicação e demonstração do trabalho pode ser encontrado a partir do seguinte [link](ADD LINK).
+O vídeo para explicação e demonstração do trabalho pode ser encontrado a partir do seguinte [link](https://www.youtube.com/watch?v=Ga0zyizIHt4).
