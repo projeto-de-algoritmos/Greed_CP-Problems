@@ -40,6 +40,6 @@ Para testar os exercícios, recomendamos acessar a página do exercício que des
 
 O vídeo para explicação e demonstração do trabalho pode ser encontrado a partir do seguinte [link](https://www.youtube.com/watch?v=Ga0zyizIHt4).
 
+Video sem compressão se encontra na pasta assets
 
 https://github.com/projeto-de-algoritmos/Greed_CP-Problems/assets/64049043/d1d471ef-2e4c-4f8e-aed0-448c685f24f3
-
